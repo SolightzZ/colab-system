@@ -1,0 +1,100 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§7Este Texture Pack cambia las texturas del tridente por unos Modelos 3D Personalizados, basados en §lMinecraft Dungeons §r|| §7por: §l§b§oRenKo",
+        "name": "§l§9Custom 3D Trident §r|| §7by: §l§b§oRenKo",
+        "uuid": "8d349503-44e7-45ef-a2c5-d7d4f92ed369",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 20 ]
+    },
+    "modules": [
+        {
+            "description": "§b§oCambiar §r§l§9Modelo3D:",
+            "type": "resources",
+            "uuid": "438d9503-44e7-45ef-a2c5-d7d4f92ed369",
+            "version": [0, 0, 1]
+        }
+ ],
+"subpacks": [
+{
+"folder_name": "model1",
+"name": "|§6Lanza§r|: §l§aLanza Basica",
+"memory_tier": 1
+},
+{
+"folder_name": "model2",
+"name": "|§6Lanza§r|: §l§3Lanza Basica 2",
+"memory_tier": 1
+},
+{
+"folder_name": "model3",
+"name": "|§6Lanza§r|: §l§eFortune Spear",
+"memory_tier": 1
+},
+{
+"folder_name": "model14",
+"name": "|§6Lanza§r|: §l§bWhispering Spear",
+"memory_tier": 1
+},
+{
+"folder_name": "model4",
+"name": "|§cGuja§r|: §l§7Glaive",
+"memory_tier": 1
+},
+{
+"folder_name": "model5",
+"name": "|§cGuja§r|: §l§aVenom Glaive",
+"memory_tier": 1
+},
+{
+"folder_name": "model6",
+"name": "|§9Hammer§r|: §l§7Great Hammer",
+"memory_tier": 1
+},
+{
+"folder_name": "model7",
+"name": "|§9Hammer§r|: §l§7Great Hammer §o§6(smaller)",
+"memory_tier": 1
+},
+{
+"folder_name": "model8",
+"name": "|§9Martillo§r|: §l§dHammer of Gravity",
+"memory_tier": 1
+},
+{
+"folder_name": "model9",
+"name": "|§9Martillo§r|: §l§dHammer of Gravity §o§6(smaller)",
+"memory_tier": 1
+},
+{
+"folder_name": "model10",
+"name": "|§9Martillo§r|: §l§bStormlander",
+"memory_tier": 1
+},
+{
+"folder_name": "model11",
+"name": "|§9Martillo§r|: §l§bStormlander §o§6(smaller)",
+"memory_tier": 1
+},
+{
+"folder_name": "model12",
+"name": "|§eMazo§r|: §l§7Mazo",
+"memory_tier": 1
+},
+{
+"folder_name": "model13",
+"name": "|§eMazo§r|: §l§eSun's Grace",
+"memory_tier": 1
+},
+{
+"folder_name": "model15",
+"name": "|§eOtros§r|: §l§aBambu",
+"memory_tier": 1
+},
+{
+"folder_name": "model16",
+"name": "|§eOtros§r|: §l§6Guitarra",
+"memory_tier": 1
+}
+ ]
+}

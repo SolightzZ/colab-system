@@ -1,0 +1,60 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "fph:player34",
+			"materials": {
+				"default": "npc"
+			},
+			"textures": {
+				"default": "textures/players/player34"
+			},
+			"geometry": {
+				"default": "geometry.fph"
+			},			
+			"spawn_egg": {
+				"texture": "player34"
+			},
+			"scripts": {
+				"animate": [
+					"rotateX",
+					"rotateY",
+					"rotateZ"
+				]
+			},
+			"animations": {
+				"rotateX_default": "animation.fph.rotateX_default",
+				"rotateX_0": "animation.fph.rotateX_0",
+				"rotateX_45": "animation.fph.rotateX_45",
+				"rotateX_90": "animation.fph.rotateX_90",
+				"rotateX_135": "animation.fph.rotateX_135",
+				"rotateX_180": "animation.fph.rotateX_180",
+				"rotateX_225": "animation.fph.rotateX_225",
+				"rotateX_270": "animation.fph.rotateX_270",
+				"rotateX_315": "animation.fph.rotateX_315",
+				"rotateX": "controller.animation.fph.rotateX",
+				"rotateY_default": "animation.fph.rotateY_default",
+				"rotateY_0": "animation.fph.rotateY_0",
+				"rotateY_45": "animation.fph.rotateY_45",
+				"rotateY_90": "animation.fph.rotateY_90",
+				"rotateY_135": "animation.fph.rotateY_135",
+				"rotateY_180": "animation.fph.rotateY_180",
+				"rotateY_225": "animation.fph.rotateY_225",
+				"rotateY_270": "animation.fph.rotateY_270",
+				"rotateY_315": "animation.fph.rotateY_315",
+				"rotateY": "controller.animation.fph.rotateY",
+				"rotateZ_default": "animation.fph.rotateZ_default",
+				"rotateZ_0": "animation.fph.rotateZ_0",
+				"rotateZ_45": "animation.fph.rotateZ_45",
+				"rotateZ_90": "animation.fph.rotateZ_90",
+				"rotateZ_135": "animation.fph.rotateZ_135",
+				"rotateZ_180": "animation.fph.rotateZ_180",
+				"rotateZ_225": "animation.fph.rotateZ_225",
+				"rotateZ_270": "animation.fph.rotateZ_270",
+				"rotateZ_315": "animation.fph.rotateZ_315",
+				"rotateZ": "controller.animation.fph.rotateZ"
+			},
+			"render_controllers": [ "controller.render.fph" ]
+		}
+	}
+}

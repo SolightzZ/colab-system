@@ -1,0 +1,36 @@
+{
+  "namespace": "hud",
+  "vignette_renderer": {
+    "renderer": "flying_item_renderer"
+  },
+  "hotbar_chooser": {
+    "type": "panel",
+    "size": ["100%c", "100%c"],
+    "$ignore_desktop": true,
+    "$ignore_pocket": false,
+    "variables": [
+      {
+        "requires": "($desktop_screen and not $education_edition)",
+        "$ignore_desktop": false,
+        "$ignore_pocket": true
+      }
+    ],
+
+    "controls": [
+      {
+        "desktop_hotbar@hotbar_panel": {
+          "ignored": "$ignore_desktop",
+          //Changed offset from -4 to -3
+          "offset": [-3, 0]
+        }
+      },
+      {
+        "pocket_hotbar@hotbar_panel": {
+          "ignored": "$ignore_pocket",
+          "size": ["100%c", 18],
+          "offset": [-3, -2]
+        }
+      }
+    ]
+  }
+}

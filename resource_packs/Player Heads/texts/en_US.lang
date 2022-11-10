@@ -1,0 +1,425 @@
+item.spawn_egg.entity.fph:player1.name=SolightzZ head(1)
+entity.fph:player1.name=SolightzZ head(1)
+
+item.spawn_egg.entity.fph:player2.name=MyFahad2020 head(2)
+entity.fph:player2.name=MyFahad2020 head(2)
+
+item.spawn_egg.entity.fph:player3.name=GDuM71 3head(3)
+entity.fph:player3.name=GDuM71 head(3) 
+
+item.spawn_egg.entity.fph:player4.name=Reverse4358 head(4)
+entity.fph:player4.name=Reverse4358 head(4)
+
+item.spawn_egg.entity.fph:player5.name=DAM0NZ17 head(5)
+entity.fph:player5.name=DAM0NZ17 head(5)
+
+item.spawn_egg.entity.fph:player6.name=Heraldicbow666 head(6)
+entity.fph:player6.name=Heraldicbow666 head(6)
+
+item.spawn_egg.entity.fph:player7.name=Tunazaza5378 head(7)
+entity.fph:player7.name=Tunazaza5378 head(7)
+
+item.spawn_egg.entity.fph:player8.name=KinorISAO head(8)
+entity.fph:player8.name=KinorISAO head(8)
+
+item.spawn_egg.entity.fph:player9.name=Dragon Hard7597 head(9)
+entity.fph:player9.name=Dragon Hard7597 head(9)
+
+item.spawn_egg.entity.fph:player10.name=Sekpongpipat258 head(10)
+entity.fph:player10.name=Sekpongpipat258 head(10)
+
+item.spawn_egg.entity.fph:player11.name=Tawan8347T head(11)
+entity.fph:player11.name=Tawan8347T head(11)
+
+item.spawn_egg.entity.fph:player12.name=? head(12)
+entity.fph:player12.name=? head(12)
+
+item.spawn_egg.entity.fph:player13.name=GuyyaReiki head(13)
+entity.fph:player13.name=GuyyaReiki head(13)
+
+item.spawn_egg.entity.fph:player14.name=NRolli head(14)
+entity.fph:player14.name=NRolli head(14)
+
+item.spawn_egg.entity.fph:player15.name=Ironbongbang951 head(15)
+entity.fph:player15.name=Ironbongbang951 head(15)
+
+item.spawn_egg.entity.fph:player16.name=HENRY TV CHANEL head(16)
+entity.fph:player16.name=HENRY TV CHANEL head(16)
+
+item.spawn_egg.entity.fph:player17.name=KasumeB head(17)
+entity.fph:player17.name=KasumeB head(17)
+
+item.spawn_egg.entity.fph:player18.name=Nonkung ch head(18)
+entity.fph:player18.name=Nonkung ch head(18)
+
+item.spawn_egg.entity.fph:player19.name=Tnkolin head(19)
+entity.fph:player19.name=Tnkolin head(19)
+
+item.spawn_egg.entity.fph:player20.name=Hisoka478 head(20)
+entity.fph:player20.name=Hisoka478 head(20)
+
+item.spawn_egg.entity.fph:player21.name=Mickeymouse2551 head(21)
+entity.fph:player21.name=Mickeymouse2551 head(21)
+
+item.spawn_egg.entity.fph:player22.name=NINO6227 head(21)
+entity.fph:player22.name=NINO6227 head(21)
+
+item.spawn_egg.entity.fph:player23.name=TrimericSnow136 head(22)
+entity.fph:player23.name=TrimericSnow136 head(22)
+
+item.spawn_egg.entity.fph:player24.name=Thanasa14 head(24)
+entity.fph:player24.name=Thanasa14 head(24)
+
+item.spawn_egg.entity.fph:player25.name=Dragon Hard7597 head(25)
+entity.fph:player25.name=Dragon Hard7597 head(25)
+
+item.spawn_egg.entity.fph:player26.name=Diamond Head
+entity.fph:player26.name=Diamond Head
+
+item.spawn_egg.entity.fph:player27.name=TNT Head
+entity.fph:player27.name=TNT Head
+
+item.spawn_egg.entity.fph:player28.name=FondCell9347307 Head(28)
+entity.fph:player28.name=FondCell9347307 Head(28)
+
+item.spawn_egg.entity.fph:player29.name=Sime Head
+entity.fph:player29.name=Slime Head
+
+item.spawn_egg.entity.fph:player30.name=Wrden Head
+entity.fph:player30.ame=Wrden Head
+
+item.spawn_egg.entity.fph:player31.name=KinorISAO head(31)
+entity.fph:player31.ame=KinorISAO head(31)
+
+item.spawn_egg.entity.fph:player32.name=Hisoka478 head(32)
+entity.fph:player32.ame=Hisoka478 head(32)
+
+item.spawn_egg.entity.fph:player33.name=ROOKMAN X head(33)
+entity.fph:player33.ame=ROOKMAN X head(33)
+
+item.spawn_egg.entity.fph:player34.name=MXBASKUNG head(34)
+entity.fph:player34.ame=MXBASKUNG head(34)
+
+action.hint.exit.fph:player1= Jump to Exit - §dspecial
+action.hint.exit.fph:player2= Jump to Exit - §dspecial
+action.hint.exit.fph:player3=Jump to Exit - §dspecial
+action.hint.exit.fph:player4=Jump to Exit - §dspecial
+action.hint.exit.fph:player5=Jump to Exit - §dspecial
+action.hint.exit.fph:player6=Jump to Exit - §dspecial
+action.hint.exit.fph:player7=Jump to Exit - §dspecial
+action.hint.exit.fph:player8=Jump to Exit - §dspecial
+action.hint.exit.fph:player9=Jump to Exit - §dspecial
+action.hint.exit.fph:player10=Jump to Exit - §dspecial
+action.hint.exit.fph:player11=Jump to Exit - §dspecial
+action.hint.exit.fph:player12=Jump to Exit - §dspecial
+action.hint.exit.fph:player13=Jump to Exit - §dspecial
+action.hint.exit.fph:player14=Jump to Exit - §dspecial
+action.hint.exit.fph:player15=Jump to Exit - §dspecial
+action.hint.exit.fph:player16=Jump to Exit - §dspecial
+action.hint.exit.fph:player17=Jump to Exit - §dspecial
+action.hint.exit.fph:player18=Jump to Exit - §dspecial
+action.hint.exit.fph:player19=Jump to Exit - §dspecial
+action.hint.exit.fph:player20=Jump to Exit - §dspecial
+action.hint.exit.fph:player21=Jump to Exit - §dspecial
+action.hint.exit.fph:player22=Jump to Exit - §dspecial
+action.hint.exit.fph:player23=Jump to Exit - §dspecial
+action.hint.exit.fph:player24=Jump to Exit - §dspecial
+action.hint.exit.fph:player25=Jump to Exit - §dspecial
+action.hint.exit.fph:player26=Jump to Exit - §dspecial
+action.hint.exit.fph:player27=Jump to Exit - §dspecial
+action.hint.exit.fph:player28=Jump to Exit - §dspecial
+action.hint.exit.fph:player29=Jump to Exit - §dspecial
+action.hint.exit.fph:player30=Jump to Exit - §dspecial
+action.hint.exit.fph:player31=Jump to Exit - §dspecial
+action.hint.exit.fph:player32=Jump to Exit - §dspecial
+action.hint.exit.fph:player33=Jump to Exit - §dspecial
+action.hint.exit.fph:player34=Jump to Exit - §dspecial
+
+chat.type.sleeping=§7[]§7 §r%s §6Went to bed. Sweet Dreams.
+
+multiplayer.player.joined=§7[§r§7] %s §ejoined the Sever.
+multiplayer.player.left=§7[§r§7] %s §eleft the Sever.
+
+item.elytra.name=§dElytra§f
+item.netherStar.name=§dNether Star§f
+item.diamond.name=Diamond
+
+item.rotten_flesh.name=RottenFlesh
+item.ghast_tear.name=GhastTear
+
+pauseScreen.back=§7[§r§7] Resume Sever
+pauseScreen.currentWorld=Current World
+pauseScreen.header=Game Menu
+pauseScreen.options=Options (§k!!!§r§f)
+pauseScreen.quit=§7[§r§7] §cQuit Exit Server
+pauseScreen.secondaryClientLeave=§7[§r§7] §cQuit Exit Server
+pauseScreen.feed=Feed
+pauseScreen.invite=§7[§r§7] Invite Sever 
+pauseScreen.ipAddress=IP: %1
+pauseScreen.error.noIpAddress=No IP found
+pauseScreen.error.noPort=No Port found
+pauseScreen.title=Game Paused
+pauseScreen.betaFeedback=Beta Feedback
+pauseScreen.xboxLiveDisconnect=Oops! Your Microsoft Account was disconnected. To invite more players, sign in on the Main Menu and restart your world.
+pauseScreen.joinCode.Label=JOIN CODE
+pauseScreen.joinCode.Icon=%3 join code icon, %1 of %2	# Example: Apple join code icon, 2 of 5
+
+permissions.operator=Admin 
+permissions.member=support
+permissions.visitor=joined
+
+tile.bed.noSleep=§7[§r§7] sleep only at night 
+tile.bed.notSafe=§7[§r§7] §cMonsters are nearby the player.
+tile.bed.notValid=
+tile.bed.occupied=
+tile.bed.respawnSet=§7[§r§7] Spawn point saved
+tile.bed.tooFar=
+tile.bed.obstructed=
+tile.bedrock.name=§aBedrock
+
+trial.upsell.trialLabel= 
+trial.upsell.title= 
+trial.upsell.description=  
+trial.upsell.description.updated= 
+trial.upsell.description.worldsDontTransferToFullGame.line1= 
+trial.upsell.description.worldsDontTransferToFullGame.line2=  
+trial.upsell.unlock=  
+trial.upsell.startTrial=  
+trial.upsell.continueTrial= 
+
+content.import.failed=Failed to import '%s'
+content.import.failed.subtitle=See output log for more details
+content.import.failed.subtitle_duplicate=Duplicate pack detected
+content.import.failed.subtitle_malformed_zip=Not a valid zip archive
+content.import.failed.subtitle_premiumcontent=Content in this world is not supported by Minecraft: Education Edition.
+content.import.failed.title_premiumcontent=Content Not Supported
+content.import.succeeded=Successfully imported '%s'
+content.import.succeeded_with_warnings=Successfully imported '%s' with warnings
+content.import.succeeded_with_warnings.subtitle=Click here for more info
+content.import.started=§l§bSever started...
+
+menu.returnToGame=Resume Sever
+
+entity.add:floating_text.name=Floating text - §dspecial§f
+entity.add:floating_text.name=Floating text - §dspecial§f
+item.spawn_egg.entity.add:floating_text.name=Floating text - §dspecial§f
+
+
+
+accessibility.disableTTS=Text To Speech disabled
+accessibility.enableTTS=Text To Speech enabled
+item.spawn_egg.entity.pa:fish_1.name=Spawn Fish 1
+item.spawn_egg.entity.pa:crab.name=Spawn Crab
+item.spawn_egg.entity.pa:fish_2.name=Spawn Butterfly Fish
+item.spawn_egg.entity.pa:fish_3.name=Spawn Fish 3
+item.spawn_egg.entity.pa:starfish.name=Spawn  Starfish
+item.spawn_egg.entity.pa:shark.name=Spawn Shark
+item.spawn_egg.entity.pa:megalodon.name=Spawn Megalodon
+item.spawn_egg.entity.pa:octopus_red.name=Spawn Octopus Red
+item.spawn_egg.entity.pa:octopus.name=Spawn Octopus
+item.spawn_egg.entity.pa:hammerhead_shark.name=Spawn Hammerhead shark
+item.spawn_egg.entity.pa:piranha.name=Spawn Piranha
+item.spawn_egg.entity.pa:stingray.name=Spawn Stingray
+item.spawn_egg.entity.pa:fishleon.name=Spawn Lion fish
+item.spawn_egg.entity.pa:swordfish.name=Spawn Swordfish
+item.spawn_egg.entity.pa:jellyfish_1.name=Jellyfish 1
+item.spawn_egg.entity.pa:jellyfish_2.name=Jellyfish 2
+item.spawn_egg.entity.pa:jellyfish_3.name=Jellyfish 3
+item.spawn_egg.entity.pa:shark_2.name=Spawn Shark 2
+item.spawn_egg.entity.pa:whale.name=Spawn Whale
+item.spawn_egg.entity.pa:cachalote.name=Spawn Cachalote
+item.spawn_egg.entity.pa:shrimp.name=Spawn Shrimp
+
+item.spawn_egg.entity.pa:vulture.name=Spawn Vulture
+item.spawn_egg.entity.pa:eagle.name=Spawn Eagle
+item.spawn_egg.entity.pa:phoenix.name=Spawn Phoenix
+item.spawn_egg.entity.pa:seagull.name=Spawn Seagull
+item.spawn_egg.entity.pa:villager_with_player_model.name=Spawn NPC
+
+entity.pa:vulture.name=Vulture
+entity.pa:eagle.name=Eagle
+entity.pa:phoenix.name=Phoenix
+entity.pa:seagull.name=Seagull
+entity.pa:villager_with_player_model.name=NPC
+
+entity.lamborghini:gallardo_yellow.name=Lamborghini Gallardo Yellow
+item.spawn_egg.entity.lamborghini:gallardo_yellow.name=Lamborghini Gallardo Yellow
+
+entity.lamborghini:gallardo_red.name=Lamborghini Gallardo Red
+item.spawn_egg.entity.lamborghini:gallardo_red.name=Lamborghini Gallardo Red
+
+entity.lamborghini:gallardo_blue.name=Lamborghini Gallardo Blue
+item.spawn_egg.entity.lamborghini:gallardo_blue.name=Lamborghini Gallardo Blue
+
+entity.lamborghini:gallardo_green.name=Lamborghini Gallardo Green
+item.spawn_egg.entity.lamborghini:gallardo_green.name=Lamborghini Gallardo Green
+
+entity.lamborghini:gallardo_black.name=Lamborghini Gallardo Black
+item.spawn_egg.entity.lamborghini:gallardo_black.name=Lamborghini Gallardo Black
+
+entity.lamborghini:gallardo_white.name=Lamborghini Gallardo White
+item.spawn_egg.entity.lamborghini:gallardo_white.name=Lamborghini Gallardo White
+
+entity.lamborghini:gallardo_orange.name=Lamborghini Gallardo Orange
+item.spawn_egg.entity.lamborghini:gallardo_orange.name=Lamborghini Gallardo Orange
+
+entity.lamborghini:gallardo_purple.name=Lamborghini Gallardo Purple
+item.spawn_egg.entity.lamborghini:gallardo_purple.name=Lamborghini Gallardo Purple
+
+entity.lamborghini:gallardo_cyan.name=Lamborghini Gallardo Cyan
+item.spawn_egg.entity.lamborghini:gallardo_cyan.name=Lamborghini Gallardo Cyan
+
+//Items
+
+item.compound.salt.name=Ivory Tusk
+item.compound.sodiumoxide.name=Stinky Cheese
+
+//Spawn Eggs//
+
+item.spawn_egg.entity.animal:bear.name=Spawn Bear
+item.spawn_egg.entity.animal:buffalo.name=Spawn Buffalo
+item.spawn_egg.entity.animal:camel.name=Spawn Camel
+item.spawn_egg.entity.animal:duck.name=Spawn Duck
+item.spawn_egg.entity.animal:penguin.name=Spawn Penguin
+item.spawn_egg.entity.animal:steve.name=Spawn Steve (NPC)
+item.spawn_egg.entity.animal:alex.name=Spawn Alex (NPC)
+item.spawn_egg.entity.animal:lion.name=Spawn Lion
+item.spawn_egg.entity.animal:hamster.name=Spawn Hamster
+item.spawn_egg.entity.animal:hippo.name=Spawn Hippopotamus
+item.spawn_egg.entity.animal:chameleon.name=Spawn Chameleon
+item.spawn_egg.entity.animal:mouse.name=Spawn Mouse
+item.spawn_egg.entity.animal:deer.name=Spawn Deer
+item.spawn_egg.entity.animal:elephant.name=Spawn Elephant
+item.spawn_egg.entity.animal:frog.name=Spawn Frog
+item.spawn_egg.entity.animal:bumblebee.name=Spawn Bumblebee
+item.spawn_egg.entity.animal:tortoise.name=Spawn Tortoise
+item.spawn_egg.entity.animal:frozen_beast.name=Spawn Frozen Beast
+item.spawn_egg.entity.animal:crocodile.name=Spawn Crocodile
+item.spawn_egg.entity.animal:zushroom.name=Spawn Zushroom
+item.spawn_egg.entity.animal:starfish.name=Spawn Starfish
+item.spawn_egg.entity.animal:panther.name=Spawn Panther
+item.spawn_egg.entity.animal:brown_mooshroom.name=Spawn Brown Mooshroom
+item.spawn_egg.entity.mooshroom.name=Spawn Red Mooshroom
+item.spawn_egg.entity.animal:emerged.name=Spawn Emerged
+item.spawn_egg.entity.animal:corrupted_skeleton.name=Spawn Corrupted Skeleton
+item.spawn_egg.entity.animal:welter.name=Spawn Welter
+item.spawn_egg.entity.animal:npc.name=Spawn NPC
+item.spawn_egg.entity.animal:npc_scientist.name=Spawn NPC Scientist
+item.spawn_egg.entity.animal:nether_creeper.name=Spawn Nether Creeper
+item.spawn_egg.entity.animal:flea.name=Spawn Flea
+item.spawn_egg.entity.animal:bird.name=Spawn Bird
+item.spawn_egg.entity.animal:tiger.name=Spawn Tiger
+item.spawn_egg.entity.animal:ender_creeper.name=Spawn Ender Creeper
+item.spawn_egg.entity.animal:ender_skeleton.name=Spawn Ender Skeleton
+
+//Entities//
+
+entity.animal:bear.name=Bear
+entity.animal:buffalo.name=Buffalo
+entity.animal:camel.name=Camel
+entity.animal:duck.name=Duck
+entity.animal:penguin.name=Penguin
+entity.animal:steve.name=Steve
+entity.animal:alex.name=Alex
+entity.animal:lion.name=Lion
+entity.animal:hamster.name=Hamster
+entity.animal:hippo.name=Hippopotamus
+entity.animal:chameleon.name=Chameleon
+entity.animal:mouse.name=Mouse
+entity.animal:deer.name=Deer
+entity.animal:elephant.name=Elephant
+entity.animal:frog.name=Frog
+entity.animal:bumblebee.name=Bumblebee
+entity.animal:tortoise.name=Tortoise
+entity.animal:frozen_beast.name=Frozen Beast
+entity.animal:crocodile.name=Crocodile
+entity.animal:zushroom.name=Zushroom
+entity.animal:starfish.name=Starfish
+entity.animal:panther.name=Panther
+entity.animal:brown_mooshroom.name=Brown Mooshroom
+entity.mooshroom.name=Red Mooshroom
+entity.animal:emerged.name=Emerged
+entity.animal:corrupted_skeleton.name=Corrupted Skeleton
+entity.animal:welter.name=Welter
+entity.animal:npc.name=NPC
+entity.animal:npc_scientist.name=NPC Scientist
+entity.animal:nether_creeper.name=Nether Creeper
+entity.animal:flea.name=Flea
+entity.animal:bird.name=Bird
+entity.animal:tiger.name=Tiger
+entity.animal:ender_creeper.name=Ender Creeper
+entity.animal:ender_skeleton.name=Ender Skeleton
+
+//new furni//
+action.hint.exit.cat=Now you can rotate it	#
+action.hint.exit.unknown=Now you can rotate it	#
+action.interact.rotar=Rotate	#
+action.interact.patitas=Open#
+action.interact.conducir=Dive	#
+action.interact.sit = Sit	#
+
+entity.unknown.name=PA inventory
+item.spawn_egg.entity.pa:sillagamer.name=PA-Colorful gamer chair
+item.spawn_egg.entity.pa:pc.name=PA-Pc Gamer
+item.spawn_egg.entity.pa:estufa.name=PA-Stove
+item.spawn_egg.entity.pa:nevera.name=PA-Fridge
+item.spawn_egg.entity.pa:lavadero.name=PA-Laundry
+item.spawn_egg.entity.pa:pacman.name=PA-Pacman recreational machine
+item.spawn_egg.entity.pa:tivi.name=PA-Tivi
+item.spawn_egg.entity.pa:retrete.name=PA-Toilet
+item.spawn_egg.entity.pa:regadera.name=PA-Watering can
+item.spawn_egg.entity.pa:christmas_tree.name=PA-Christmas tree
+item.spawn_egg.entity.pa:piano.name=PA-Piano
+item.spawn_egg.entity.pa:closet.name=PA-Closet
+item.spawn_egg.entity.pa:banca.name=PA-Park Bench
+item.spawn_egg.entity.pa:bench.name=PA-Bench
+item.spawn_egg.entity.pa:billar.name=PA-Pool Table
+item.spawn_egg.entity.pa:fuente.name=PA-Water Source
+item.spawn_egg.entity.pa:tumbanormal.name=PA-Normal Grave
+item.spawn_egg.entity.pa:tumbacruz.name=PA-Cross Grave
+item.spawn_egg.entity.pa:tumbacreeper.name=PA-Creeper Grave
+item.spawn_egg.entity.pa:banera.name=PA-Bath
+item.spawn_egg.entity.pa:robertcup.name=PA-Robert Trophy
+item.spawn_egg.entity.pa:maxcup.name=PA-Max Trophy
+item.spawn_egg.entity.pa:columpio.name=PA-Swing
+item.spawn_egg.entity.pa:futbolito.name=PA-Foosball table
+item.spawn_egg.entity.pa:laptop.name=PA-Laptop
+item.spawn_egg.entity.pa:pcdos.name=PA-Ordenador
+item.spawn_egg.entity.pa:lavavo.name=PA-Sink
+item.spawn_egg.entity.pa:ventilador.name=PA-Ceiling fan
+item.spawn_egg.entity.pa:mpeluches.name=PA-Teddies machine
+///
+item.spawn_egg.entity.pa:pizza.name=PA-Pizza
+item.spawn_egg.entity.pa:satanic.name=PA-Satanic Ritual
+item.spawn_egg.entity.pa:brinca.name=PA-Trampoline
+item.spawn_egg.entity.pa:micro.name=PA-Microwave oven
+item.spawn_egg.entity.pa:resbaladilla.name=PA-Slipper
+item.spawn_egg.entity.pa:armchairs.name=PA-Armchairs
+item.spawn_egg.entity.pa:lamparacolores.name=PA-Lamp of Colors
+item.spawn_egg.entity.pa:saltapicina.name=PA-Pool Trampoline
+item.spawn_egg.entity.pa:big_table.name=PA-Big Table
+item.spawn_egg.entity.pa:small_table.name=PA-Small Table
+item.spawn_egg.entity.pa:chair.name=PA-Chair
+item.spawn_egg.entity.pa:sombrilla.name=PA-Colorful umbrellas
+item.spawn_egg.entity.pa:sillaplaya.name=PA-Beach chairs
+item.spawn_egg.entity.pa:humanos.name=PA-Humans
+item.spawn_egg.entity.pa:auto.name=PA-Auto colors
+item.spawn_egg.entity.pa:mchiclesg.name=PA-Big Chewing Gum Machine
+item.spawn_egg.entity.pa:mchiclesc.name=PA-Small Chewing Gum Machine
+item.spawn_egg.entity.pa:patitas.name=PA-Pet's Chest
+item.spawn_egg.entity.pa:drone.name=PA-Drone
+item.spawn_egg.entity.pa:colorful_gifts.name=PA-Colorful gifts
+item.spawn_egg.entity.pa:mueblestv.name=PA-Furniture for TV
+item.spawn_egg.entity.pa:chimenea.name=PA-Chimney
+
+//block//
+tile.add:sleep.name=sleeplite Block - §dspecial§f
+tile.add:uss.name=Universe Survival Block - §dspecial§f
+tile.add:mw.name=MyWorld Block - §dspecial§f
+tile.add:mon.name=§bBlock of Diamonds
+
+action.hint.exit.chest_minecart=press shift to exit - §dspecial§f
+action.hint.exit.hopper_minecart=press shift to exit - §dspecial§f
+action.hint.exit.ravager=press shift to exit  - §dspecial§f
+action.interact.ride.player=Mount - §dspecial§f
+action.hint.exit.player=Jump or sneak to dismount - §dspecial§f

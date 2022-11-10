@@ -1,0 +1,66 @@
+﻿{
+  "namespace": "start",
+
+  "info_pack": {
+    "type": "label",
+    "color": "$main_header_text_color",
+    "layer": 2,
+    "text": "§bCustom Trident §l§93D Models §r|| §bby: §l§cRenKo",
+    "size": [ "default", 10 ],
+    "max_size": [ "100%", "100%" ],
+    "anchor_from": "bottom_right",
+    "anchor_to": "bottom_right"
+  },
+
+  "copyright": {
+    "type": "label",
+    "color": "$main_header_text_color",
+    "layer": 2,
+    "text": "",
+    "size": [ "default", 20 ],
+    "offset": [ 1, -1 ],
+    "max_size": [ "100%", "100%" ],
+    "anchor_from": "bottom_left",
+    "anchor_to": "bottom_left"
+  },
+
+  "version": {
+    "type": "label",
+    "color": "$main_header_text_color",
+    "layer": 2,
+    "text": "#version",
+    "size": [ "default", 21 ],
+    "max_size": [ "100%", "100%" ],
+    "anchor_from": "bottom_right",
+    "anchor_to": "bottom_right",
+    "bindings": [
+      {
+        "binding_name": "#version"
+      }
+    ]
+  },
+
+  "text_panel": {
+    "type": "panel",
+    "size": [ "100%-2px", 19 ],
+    "offset": [ 0, 0 ],
+    "anchor_from": "bottom_middle",
+    "anchor_to": "bottom_middle",
+    "controls": [
+      {
+        "copyright@start.copyright": {}
+      },
+      {
+        "development_version@start.development_version": {
+          "ignored": "$is_publish"
+        }
+      },
+      {
+        "version@start.version": {}
+      },
+      {
+        "info_pack@start.info_pack": {}
+      }
+    ]
+  }
+}
