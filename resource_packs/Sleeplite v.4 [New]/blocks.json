@@ -1,0 +1,27 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "add:sleep": {
+    "textures": "sleep",
+    "sound": "stone"
+},
+"add:mw": {
+    "textures": "mw",
+    "sound": "stone"
+},
+"add:us": {
+    "textures": "us",
+    "sound": "stone"
+},
+"add:mon": {
+    "textures": "mon",
+    "sound": "stone"
+},
+"add:uss": {
+    "textures": "uss",
+    "sound": "stone"
+  }
+}

@@ -1,0 +1,81 @@
+{
+"format_version": "1.10.0",
+"minecraft:entity": {
+"description": {
+"identifier": "add:floating_text",
+"is_spawnable": true,
+"is_summonable": true,
+"is_experimental": false
+},
+"component_groups": {
+"die": {
+"minecraft:health": {
+"value": -1
+}
+}
+},
+"components": {
+"minecraft:nameable": {
+"allowNameTagRenaming": true,
+"alwaysShow": true
+},
+"minecraft:interact": [{
+"on_interact": {
+"filters": {
+"all_of": [{
+"test": "is_family",
+"subject": "other",
+"value": "player"
+},
+{
+"test": "has_equipment",
+"domain": "hand",
+"subject": "other",
+"value": "barrier"
+}
+]
+},
+"event": "die"
+},
+"play_sounds": "random.hurt",
+"interact_text": "/kill"
+}
+],
+"minecraft:health": {
+"value": 999999999,
+"max": 999999999
+},
+"minecraft:knockback_resistance": {
+"value": 1
+},
+"minecraft:damage_sensor": [
+{
+"cause": "all",
+"deals_damage": false
+}
+],
+"minecraft:collision_box": {
+"width": 0.4,
+"height": 0.4
+},
+"minecraft:scale" : {
+"value" : 0.0
+},
+"minecraft:pushable" : {
+"is_pushable": false
+},
+"minecraft:physics": {
+"has_gravity": false
+}
+},
+"events": {
+"die": {
+"add": {
+"component_groups": [
+"die"
+]
+}
+}
+}
+}
+}

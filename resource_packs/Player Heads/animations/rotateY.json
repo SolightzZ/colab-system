@@ -1,0 +1,77 @@
+{
+	"format_version" : "1.8.0",
+	"animations" : {
+		"animation.fph.rotateY_default" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_0" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_45" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 45.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_90" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 90.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_135" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 135.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_180" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 180.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_225" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 225.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_270" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 270.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fph.rotateY_315" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ 0.0, 315.0, 0.0 ]
+				}
+			}
+		}
+	}
+}

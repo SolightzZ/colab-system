@@ -1,0 +1,26 @@
+{
+  "format_version":"1.10.0",
+    "animation_controllers": {
+    "controller.animation.maxnet_function": {
+      "states": {
+        "default": {
+          "transitions": [
+            {
+              "turtle_helmet": "(query.get_equipped_item_name('main_hand') == 'turtle_helmet') || (query.get_equipped_item_name('off_hand') == 'turtle_helmet')"
+            }
+          ]
+        },
+        "turtle_helmet": {
+          "transitions": [
+            {
+              "default": "(1.0)"
+            }
+          ],
+          "on_entry": [
+						"/tp @e[type=item,r=5] @s[tag=mag,r=5]"
+          ]
+        }
+      }
+    }
+  }
+}

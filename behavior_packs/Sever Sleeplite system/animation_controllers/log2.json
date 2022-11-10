@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.player.log2": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"sneaking":"query.get_equipped_item_name('main_hand') == 'stone_axe' && query.is_sneaking"
+						}
+					],
+					"on_entry": [
+						"/function uhc"
+					]
+				},
+				"sneaking": {
+					"transitions": [
+						{
+							"default":"query.get_equipped_item_name('main_hand') == 'stone_axe' && query.is_sneaking"
+						}
+					],
+					"on_entry": [
+						""
+					]
+				}
+			}
+		}
+	}
+}

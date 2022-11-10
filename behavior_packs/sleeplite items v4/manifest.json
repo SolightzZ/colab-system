@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "sleeplite items v4",
+		"description": "Sever Sleeplite system(B2)",
+		"uuid": "db513354-69c4-40a8-94d8-25bf787058e6",
+		"version": [
+			1,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "c215ba88-78b3-4abf-bf8c-8d42ca1e343b",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	]
+}

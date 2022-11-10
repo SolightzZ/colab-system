@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.opsa.opsa_run": {
+			"loop": false,
+			"animation_length": 1.2,
+			"timeline": {
+				"0.0": "/particle rainbow ~~-0.5~ ",
+				"1.0": [
+					"/time set sunrise",
+					"/weather clear 46000"
+				],
+				"1.1": [
+					"/time add 2000"
+				]
+			}
+		}
+	}
+}

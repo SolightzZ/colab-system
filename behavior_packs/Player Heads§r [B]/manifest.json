@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "v1.1 | Pack By §6FoxyNoTail§r | Players drop their heads when killed by a player | Check the README for details | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2021, FoxyNoTail",
+        "name": "Player Heads§r [B]",
+        "uuid": "d4e6de21-d57c-4716-bfb7-22d1896a1c2e",
+        "version": [1, 1, 0],
+		"min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "79e221db-ee0f-4a7e-8ca4-a48308b78c25",
+            "version": [1, 1, 0]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "9399abf9-ca24-4206-8e6b-677494308df5",
+		"version": [1, 1, 0]
+	  }
+	]
+}

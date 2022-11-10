@@ -1,0 +1,50 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.player" : {
+			"initial_state" : "alive",
+			"states" : {			
+				"alive" : {
+					"transitions" : [
+						{ "dead" : "!query.is_alive" }
+					]
+				},
+				"dead" : {
+					"transitions" : [
+						{ "alive" : "query.is_alive" }
+					],
+					"on_entry": [
+                                                                                       "/execute @s ~ ~ ~ /tp ~ ~ ~",
+						"/execute @s[tag=p1] ~ ~ ~ summon fph:player1 ~ ~1 ~",
+						"/execute @s[tag=p2] ~ ~ ~ summon fph:player2 ~ ~1 ~",
+						"/execute @s[tag=p3] ~ ~ ~ summon fph:player3 ~ ~1 ~",
+						"/execute @s[tag=p4] ~ ~ ~ summon fph:player4 ~ ~1 ~",
+						"/execute @s[tag=p5] ~ ~ ~ summon fph:player5 ~ ~1 ~",
+						"/execute @s[tag=p6] ~ ~ ~ summon fph:player6 ~ ~1 ~",
+						"/execute @s[tag=p7] ~ ~ ~ summon fph:player7 ~ ~1 ~",
+						"/execute @s[tag=p8] ~ ~ ~ summon fph:player8 ~ ~1 ~",
+						"/execute @s[tag=p10] ~ ~ ~ summon fph:player10 ~ ~1 ~",
+						"/execute @s[tag=p11] ~ ~ ~ summon fph:player11 ~ ~1 ~",
+						"/execute @s[tag=p13] ~ ~ ~ summon fph:player13 ~ ~1 ~",
+						"/execute @s[tag=p14] ~ ~ ~ summon fph:player14 ~ ~1 ~",
+						"/execute @s[tag=p15] ~ ~ ~ summon fph:player15 ~ ~1 ~",
+						"/execute @s[tag=p16] ~ ~ ~ summon fph:player16 ~ ~1 ~",
+						"/execute @s[tag=p17] ~ ~ ~ summon fph:player17 ~ ~1 ~",
+						"/execute @s[tag=p18] ~ ~ ~ summon fph:player18 ~ ~1 ~",
+						"/execute @s[tag=p19] ~ ~ ~ summon fph:player19 ~ ~1 ~",
+						"/execute @s[tag=p20] ~ ~ ~ summon fph:player20 ~ ~1 ~",
+						"/execute @s[tag=p21] ~ ~ ~ summon fph:player21 ~ ~1 ~",
+						"/execute @s[tag=p22] ~ ~ ~ summon fph:player22 ~ ~1 ~",
+						"/execute @s[tag=p23] ~ ~ ~ summon fph:player23 ~ ~1 ~",
+						"/execute @s[tag=p24] ~ ~ ~ summon fph:player24 ~ ~1 ~",
+						"/execute @s[tag=p25] ~ ~ ~ summon fph:player25 ~ ~1 ~",
+                        "/execute @s[tag=p28] ~ ~ ~ summon fph:player28 ~ ~1 ~",
+ "/execute @s[tag=p33] ~ ~ ~ summon fph:player33 ~ ~1 ~",
+ "/execute @s[tag=p34] ~ ~ ~ summon fph:player34 ~ ~1 ~",
+						"/scoreboard players add @s death 1"
+					]			
+				}
+			}
+		}
+	}
+}
