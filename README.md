@@ -6,16 +6,6 @@
  ระบบเซิฟที่ใช้เล่น Colab Serber ไม่ว่าจะเป็น รวบรวม แก้ไข้ และ สร้างขึ้นมาเองอีกด้วย
  ถ้าอยากสนับสนุน ก็ เข้ามาที่ Discord ได้เลย
  
-  [ Discord Colab Sever : https://discord.io/ColabServer ]
- 
-# Discord เพิ่มเติม
-
- Discord Sleeplite : https://discord.io/Sleeplite
- 
- Discord Myword : https://discord.io/MYWORLDSMP
- 
- Discord Universe Survival : https://discord.io/UniversSurvival
- 
 # CollabEnding 17/7/2022
 ![](https://cdn.discordapp.com/attachments/908552614919176223/998932345522499694/3.png)
 
@@ -53,3 +43,14 @@
 
 
 ![](https://cdn.discordapp.com/attachments/908552614919176223/998945804192591962/Zgta.gif)
+
+  [ Discord Colab Sever : https://discord.io/ColabServer ]
+ 
+# Discord เพิ่มเติม
+
+ Discord Sleeplite : https://discord.io/Sleeplite
+ 
+ Discord Myword : https://discord.io/MYWORLDSMP
+ 
+ Discord Universe Survival : https://discord.io/UniversSurvival
+ 
