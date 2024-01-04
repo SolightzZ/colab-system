@@ -10,9 +10,6 @@
 ![](https://cdn.discordapp.com/attachments/908552614919176223/998932345522499694/3.png)
 
 **Collab Sever - It's a gathering of Minecraft teams.**
-
-## 
-- รูปภาพแนะนำ
  
 ![](https://cdn.discordapp.com/attachments/908552614919176223/998932346617204777/1.png)
 
